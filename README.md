@@ -1,4 +1,4 @@
-# 🎬 Netflix Clone – Frontend Landing Page
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f62ac95b-e36a-4a39-892d-169cc57f91fa" /># 🎬 Netflix Clone – Frontend Landing Page
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
@@ -33,7 +33,12 @@ frontend development skills.
 
 ## 📸 Preview
 
-> Add screenshot here after taking one!
+<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/ab3f35ff-b097-401a-824d-d6f871c69274" />
+<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/b849193e-261a-44d2-9ca8-dfab0160996b" />
+<img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/d619daa6-14c4-4192-8138-20ffed05be06" />
+<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/54987e4b-e4f3-4d49-8787-bb0d1c066114" />
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/e4f37e73-70e6-40bf-bb09-294ae63683aa" />
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/82943261-0489-409d-b28f-a2cfd9d9cce8" />
 
 ---
 
